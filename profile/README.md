@@ -7,4 +7,4 @@ We create **books, courses, and cheatsheets** that focus on **Clear explanations
 
 - *Website*: **[Golang College](https://golang.college)**
 - *Newsletter*: **[GoCollege Newsletter](https://gocollege.substack.com/)**
-- **Find us on**: **[X](https://x.com/golang_college)**, **[GitHub](https://github.com/gocollege)**!
+- *Find us on*: **[X](https://x.com/golang_college)**, **[GitHub](https://github.com/gocollege)**!
